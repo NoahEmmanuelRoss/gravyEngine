@@ -29,7 +29,6 @@
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
@@ -41,6 +40,10 @@
 *.su
 *.idb
 *.pdb
+
+#Visual Studio Files
+*.sln
+*.v12.suo
 
 # Kernel Module Compile Results
 *.mod*
